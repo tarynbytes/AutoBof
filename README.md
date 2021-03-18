@@ -5,6 +5,7 @@
 ##### Usage:
   ```
   kali@kali:~$ python3 autobof.py --rhost RHOST --rport RPORT --prefix PREFIX --suffix SUFFIX --lhost LHOST --lport LPORT
+  
      -h, --help       show this help message and exit
      --rhost RHOST    target ip address  ------------- [required]
      --rport RPORT    target port -------------------- [required]
