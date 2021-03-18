@@ -19,7 +19,6 @@ parser.add_argument("--prefix", help = "string prefix [default: \"\"]", default 
 parser.add_argument("--suffix", help = "string suffix [default: \"\"]", default = "")
 parser.add_argument("--lhost", help = "listening ip address [default: tun0]", default = "tun0")
 parser.add_argument("--lport", help = "listening port [default: 443]", default = 443)
-
 args = parser.parse_args()
 
 rhost = args.rhost
