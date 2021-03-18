@@ -2,7 +2,8 @@
 
 ################################################################################################################
 # Title: AutoBof											       #
-# Description: A tool for automating buffer overflow exploitation.   					       #
+# Description: A tool for automating buffer overflow exploitation.					       #
+# Version: 1.0												       #
 # Created: 20 February 2021										       #
 # Last Modified: 10 March 2021										       #
 # By: Tarynhacks											       #
